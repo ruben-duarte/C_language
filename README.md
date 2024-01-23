@@ -1,1 +1,1 @@
-##C language fundamentals, datastructures and algorithms
+# C language fundamentals, datastructures and algorithms
