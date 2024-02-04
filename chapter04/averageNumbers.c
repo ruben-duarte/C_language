@@ -8,7 +8,7 @@ double average(int, int, int);
 
 int main() {
     printf("The average of 1,2,3 is %lf\n", average(1,2,3));
-    
+    printf("The average of 52,53,57 is %lf\n", average(52,53,57));
     return 0;
 }
 
